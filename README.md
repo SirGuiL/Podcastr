@@ -8,3 +8,4 @@ Website com React e Next desenvolvido na Next Level Week 5
 - date-fns
 - axios
 - rc-slider
+- sass
